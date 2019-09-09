@@ -16,7 +16,7 @@ All simulations in this study were performed on MATLAB 2016a (Mathworks Inc., US
 
 1. Matlab
 2. Cobra Toolbox version 2
-3. Fast-SL
+3. Fast-SL (https://github.com/RamanLab/FastSL)
 
 
 
